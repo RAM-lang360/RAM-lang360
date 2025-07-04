@@ -15,7 +15,7 @@ Web系の開発からインフラ系までいろいろ触ったけど、理解�
 
 - [「は」っていうゲーム](https://saying-hua-mirhqfxfv2xuupjewtn4vg.streamlit.app/)
 - [たった今ラブレター](https://love-on-time-e6rsbuqcdk4guho7u3ckka.streamlit.app/)
-- [横暴な編集長](bad-editor-m9xlfphjc6szmadpdedr66.streamlit.app/)
+- [横暴な編集長](https://bad-editor-m9xlfphjc6szmadpdedr66.streamlit.app/)
 
 ## 技術スタック
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,c,ruby,rails,aws,docker,figma,gcp,sqlite)](https://skillicons.dev)
