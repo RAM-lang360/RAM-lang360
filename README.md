@@ -37,7 +37,7 @@ Web系の開発からインフラ系までいろいろ触ったけど、理解�
 - **技術スタック**: Python, Streamlit
 - **GitHub**: [https://github.com/RAM-lang360/URL-AUTOsystem-by-streamlit](https://github.com/RAM-lang360/URL-AUTOsystem-by-streamlit)
 
-### 3. オンラインボードゲームサイト (開発中)
+### 3. オンラインボードゲームサイト 
 - **概要**: Ruby on Railsで開発中の多人数プレイ可能なWebアプリケーション。ユーザーがルームを作成し、他のプレイヤーとボードゲームを楽しめます。
 - **特徴**: Ruby on Railsの認証機能やDB管理の容易さ、WebSocket対応に着目して開発を進めています。
 - **技術スタック**: HTML, CSS, Ruby, Ruby on Rails
