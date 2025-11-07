@@ -8,12 +8,14 @@ I'm a beginner engineer who have litle experience of Infrastracture from web
 Railsエンジニアとして長期インターンで活動中です
 
 
-## 技術スタック skills
+## 技術スタックとアクティビティ skills & activity
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,c,ruby)
   
 ![My Skills](https://skillicons.dev/icons?i=rails,nodejs,figma,githubactions,sqlite,mysql,postgres)  
 ![My Skills](https://skillicons.dev/icons?i=nginx,aws,docker,gcp,terraform,linux,ubuntu)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAM-lang360&show_icons=true&theme=dark#gh-dark-mode-only
+)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAM-lang360&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazr/github-readme-stats)
 ## 🛠️ 制作物一覧 List of deliverables
 
 ### 1. Gemini AIによる英文正誤判別Google拡張機能
