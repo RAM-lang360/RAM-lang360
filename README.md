@@ -1,4 +1,4 @@
-# 自己紹介:Self-introduction
+# 自己紹介 Self-introduction
 こんにちは、公立千歳科学技術大学 応用生物学科の人間、RAM-lang360です。  
 Hello!! Iam RAM-lang360 who belong to Chitose Institute of Science and Technology  
 Web系の開発からインフラ系までいろいろ触ってるタイプのエンジニアになってます。  
