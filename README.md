@@ -1,19 +1,20 @@
-# 自己紹介　Self-introduction
-こんにちは、公立千歳科学技術大学 応用生物学科の人間、RAM-lang360です。
-Hello!! Iam RAM-lang360 who belong to Chitose Institute of Science and Technology
-Web系の開発からインフラ系までいろいろ触ってるタイプのエンジニアになってます。
-I'm a beginner engineer who have litle experience of Infrastracture from web
-## 最近の活動
+# 自己紹介:Self-introduction
+こんにちは、公立千歳科学技術大学 応用生物学科の人間、RAM-lang360です。  
+Hello!! Iam RAM-lang360 who belong to Chitose Institute of Science and Technology  
+Web系の開発からインフラ系までいろいろ触ってるタイプのエンジニアになってます。  
+I'm a beginner engineer who have litle experience of Infrastracture from web  
+
+## 最近の活動 Recent-activity
 Railsエンジニアとして長期インターンで活動中です
 
 
-## 技術スタック
+## 技術スタック skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,c,ruby)
   
 ![My Skills](https://skillicons.dev/icons?i=rails,nodejs,figma,githubactions,sqlite,mysql,postgres)  
 ![My Skills](https://skillicons.dev/icons?i=nginx,aws,docker,gcp,terraform,linux,ubuntu)
 
-## 🛠️ 制作物一覧
+## 🛠️ 制作物一覧 List of deliverables
 
 ### 1. Gemini AIによる英文正誤判別Google拡張機能
 - **概要**: Google Gemini AIを活用し、スペルの正誤判定や英単語の説明を行うChrome拡張機能です。
