@@ -13,9 +13,6 @@ Railsエンジニアとして長期インターンで活動中です
 ![My Skills](https://skillicons.dev/icons?i=rails,nodejs,figma,githubactions,sqlite,mysql,postgres)  
 ![My Skills](https://skillicons.dev/icons?i=nginx,aws,docker,gcp,terraform,linux,ubuntu)
 
-以下Geminiくんがまとめてくれたよ
-
-
 ## 🛠️ 制作物一覧
 
 ### 1. Gemini AIによる英文正誤判別Google拡張機能
@@ -50,7 +47,7 @@ Railsエンジニアとして長期インターンで活動中です
 ---
 
 ## 🌟 その他の経験・スキル
-* **国際的な技術交流**: カナダ留学中に現地の情報系学生とITミーティングを主催し、技術交流を積極的に行いました。
-* **アウトプットの経験**: サポーターズ技育キャンプに参加し、自身の制作物を発表する経験も積んでいます。
+* **国際的な技術交流**: カナダ留学中に現地の情報系学生とITミーティングを主催.[リンク](https://www.facebook.com/groups/544417594767160)
+* **アウトプットの経験**: サポーターズ技育キャンプに参加し、自身の制作物を発表
 
 ---
