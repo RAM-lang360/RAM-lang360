@@ -1,24 +1,17 @@
-# 自己紹介
-
+# 自己紹介　Self-introduction
 こんにちは、公立千歳科学技術大学 応用生物学科の人間、RAM-lang360です。
-
-Web系の開発からインフラ系までいろいろ触ったけど、理解してる自信がないタイプのエンジニアになってます。
-
+Hello!! Iam RAM-lang360 who belong to Chitose Institute of Science and Technology
+Web系の開発からインフラ系までいろいろ触ってるタイプのエンジニアになってます。
+I'm a beginner engineer who have litle experience of Infrastracture from web
 ## 最近の活動
+Railsエンジニアとして長期インターンで活動中です
 
-最近は Ruby on Rails で高機能なオンラインボードゲームサイトを作ろうとしています (^▽^)/  
-ボードゲーム面白い...!!!!!
-
-## 作成した小規模ボードゲームアプリ
-
-ぜひ使ってフィードバックをください！
-
-- [「は」っていうゲーム](https://saying-hua-mirhqfxfv2xuupjewtn4vg.streamlit.app/)
-- [たった今ラブレター](https://love-on-time-e6rsbuqcdk4guho7u3ckka.streamlit.app/)
-- [横暴な編集長](https://bad-editor-m9xlfphjc6szmadpdedr66.streamlit.app/)
 
 ## 技術スタック
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,c,ruby,rails,aws,docker,figma,gcp,sqlite,terraform)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,c,ruby)
+  
+![My Skills](https://skillicons.dev/icons?i=rails,nodejs,figma,githubactions,sqlite,mysql,postgres)  
+![My Skills](https://skillicons.dev/icons?i=nginx,aws,docker,gcp,terraform,linux,ubuntu)
 
 以下Geminiくんがまとめてくれたよ
 
