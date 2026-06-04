@@ -2,17 +2,17 @@
 # 自己紹介 Self-introduction
 こんにちは、公立千歳科学技術大学 応用生物学科の人間、RAM-lang360です。  
 Hello!! Iam RAM-lang360 who belong to Chitose Institute of Science and Technology  
-Web系の開発からインフラ系までいろいろ触ってるタイプのエンジニアになってます。  
+Web系の開発からインフラ系までいろいろ触ってるタイプのエンジニアになってます。  最近はインフラ系が熱い気がする。
 I'm a beginner engineer who have litle experience of Infrastracture from web  
 
 ## 最近の活動 Recent-activity
 Railsエンジニアとして長期インターンで活動中です
 
 ## 保有資格
-基本情報技術者
-AWS Certified Cloud Practitioner）
-Toeic Listening & Reading 820pt
-re
+1. 基本情報技術者  
+2. AWS Certified Cloud Practitioner）  
+3. Toeic Listening & Reading 820pt  
+
 ## 技術スタックとアクティビティ skills & activity
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,c,ruby)
   
