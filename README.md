@@ -8,7 +8,11 @@ I'm a beginner engineer who have litle experience of Infrastracture from web
 ## 最近の活動 Recent-activity
 Railsエンジニアとして長期インターンで活動中です
 
-
+## 保有資格
+基本情報技術者
+AWS Certified Cloud Practitioner）
+Toeic Listening & Reading 820pt
+re
 ## 技術スタックとアクティビティ skills & activity
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,c,ruby)
   
