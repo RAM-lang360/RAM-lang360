@@ -10,8 +10,9 @@ Railsエンジニアとして長期インターンで活動中です
 
 ## 保有資格
 1. 基本情報技術者  
-2. AWS Certified Cloud Practitioner）  
-3. Toeic Listening & Reading 820pt  
+2. AWS Certified Cloud Practitioner）
+3. AWS Certified Solutions Architect - Associate
+4. Toeic Listening & Reading 820pt  
 
 ## 技術スタックとアクティビティ skills & activity
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,c,ruby)
